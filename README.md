@@ -11,4 +11,4 @@ service: services, functions, features
 
 (maybe) model or dao: database model
 
-(maybe) view: needs view if evolving into app 
+(maybe) view: needs view if evolving into an app 
