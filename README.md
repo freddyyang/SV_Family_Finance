@@ -5,7 +5,7 @@ Family Budgeting and finance planning for families working in Tech. It includes 
 # folders/ structure as of nov 2022:
 common: common Interfaces, utils, and etc
 
-service: services, functions, features
+service: services and features
 
 (maybe) controller: api, http methods or ui interface
 
